@@ -1,4 +1,4 @@
-module github.com/MohamedahmedCS/GoChat
+module github.com/MohamedahmedCS/gochat
 
 go 1.22.4
 
